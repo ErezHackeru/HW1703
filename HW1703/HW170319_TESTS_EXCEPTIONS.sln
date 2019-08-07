@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW170319_TESTS_EXCEPTIONS", "HW170319_TESTS_EXCEPTIONS\HW170319_TESTS_EXCEPTIONS.csproj", "{71569B6C-03AB-4F90-8936-D4309067BDAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test_API", "Test_API\Test_API.csproj", "{4108ABF6-21EE-4734-B2D0-16A9E4B4EE40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71569B6C-03AB-4F90-8936-D4309067BDAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71569B6C-03AB-4F90-8936-D4309067BDAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71569B6C-03AB-4F90-8936-D4309067BDAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71569B6C-03AB-4F90-8936-D4309067BDAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4108ABF6-21EE-4734-B2D0-16A9E4B4EE40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4108ABF6-21EE-4734-B2D0-16A9E4B4EE40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4108ABF6-21EE-4734-B2D0-16A9E4B4EE40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4108ABF6-21EE-4734-B2D0-16A9E4B4EE40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E9BF942-8A92-48CC-934A-F1A5D5CE3A8A}
+	EndGlobalSection
+EndGlobal
